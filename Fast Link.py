@@ -105,7 +105,7 @@ class Application(tk.Frame):
         sys.exit()
 
     def add(self,name,url):
-        newButton = tk.Button(self.scrollFrame.viewPort, text=name, command= lambda: self.searchZoom(url))
+        newButton = tk.Button(self.scrollFrame.viewPort, text=name, command= lambda: self.searchZoom(name))
         newButton['bg'] = BTN_BACKGROUND
         newButton.pack(side="top", fill="both", expand=True)
         self.buttonList.append(newButton)
