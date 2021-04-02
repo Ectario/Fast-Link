@@ -6,8 +6,13 @@ I created it because covid-19 required distance learning, which involved the use
 
 You're saves of links are in the file named "dataFastLink" (need to be in the same directory than FastLink.py) so be cautious with it.
 
+Advice : rename FastLink.py with extension .pyw like FastLink.pyw if you want hide the terminal.
+
 Enjoy !
 
-Advice : rename FastLink.py with extension .pyw like FastLink.pyw if you want hide the terminal.
+
+
+
+Interface :
 
 ![Interface : ](https://user-images.githubusercontent.com/61197119/113416265-3f020400-93c1-11eb-95e7-477a4a9fafeb.png)
