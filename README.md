@@ -8,6 +8,9 @@ Your saves of links are in the file named "dataFastLink" (need to be in the same
 
 Advice : rename FastLink.py with extension .pyw like FastLink.pyw if you want hide the terminal.
 
+(If you have Linux distribution with apt, then you need to go in the console and write : apt-get install python3-tk.)
+
+
 Enjoy !
 
 
