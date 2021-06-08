@@ -8,7 +8,7 @@ I created it because covid-19 required distance learning, which involved the use
 
 ## Installation
 
-If you have a linux distro with apt then you need to go to the console and write: apt-get install python3-tk. (To install the TKinter module, it is the native python module for the graphical interface, it is not native under linux)
+If you have a linux distro with apt then you need to go to the console and write: `apt-get install python3-tk`. (To install the TKinter module, it is the native python module for the graphical interface, it is not native under linux)
 
 ## Usage
 
